@@ -1,0 +1,8 @@
+C:\Users\Candan\Desktop\C# Diğer\Engin Demiroğ 2024 Kamp\Projeler\5-KodlamaioHomePage\KodlamaioHomePage\KodlamaioHomePage\obj\Debug\KodlamaioHomePage.csproj.AssemblyReference.cache
+C:\Users\Candan\Desktop\C# Diğer\Engin Demiroğ 2024 Kamp\Projeler\5-KodlamaioHomePage\KodlamaioHomePage\KodlamaioHomePage\obj\Debug\KodlamaioHomePage.csproj.SuggestedBindingRedirects.cache
+C:\Users\Candan\Desktop\C# Diğer\Engin Demiroğ 2024 Kamp\Projeler\5-KodlamaioHomePage\KodlamaioHomePage\KodlamaioHomePage\obj\Debug\KodlamaioHomePage.csproj.CoreCompileInputs.cache
+C:\Users\Candan\Desktop\C# Diğer\Engin Demiroğ 2024 Kamp\Projeler\5-KodlamaioHomePage\KodlamaioHomePage\KodlamaioHomePage\bin\Debug\KodlamaioHomePage.exe.config
+C:\Users\Candan\Desktop\C# Diğer\Engin Demiroğ 2024 Kamp\Projeler\5-KodlamaioHomePage\KodlamaioHomePage\KodlamaioHomePage\bin\Debug\KodlamaioHomePage.exe
+C:\Users\Candan\Desktop\C# Diğer\Engin Demiroğ 2024 Kamp\Projeler\5-KodlamaioHomePage\KodlamaioHomePage\KodlamaioHomePage\bin\Debug\KodlamaioHomePage.pdb
+C:\Users\Candan\Desktop\C# Diğer\Engin Demiroğ 2024 Kamp\Projeler\5-KodlamaioHomePage\KodlamaioHomePage\KodlamaioHomePage\obj\Debug\KodlamaioHomePage.exe
+C:\Users\Candan\Desktop\C# Diğer\Engin Demiroğ 2024 Kamp\Projeler\5-KodlamaioHomePage\KodlamaioHomePage\KodlamaioHomePage\obj\Debug\KodlamaioHomePage.pdb
